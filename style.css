@@ -1,0 +1,89 @@
+body {
+    background-color: white;
+    overflow-x: hidden;
+}
+
+.navbar-elements {
+    margin-right: 30px;
+    font-size: 130%;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#navbar-logo {
+    height: 100px;
+    width: auto;
+}
+
+.navbar-color {
+    background-color: #fefdfa;
+}
+
+.top-column {
+    background-color: #D0103C;
+}
+
+.top-icons {
+    color:white;
+    margin: 5px;
+    font-size: 110%;
+    text-decoration: none;
+}
+
+.carousel-img {
+    width: auto  !important;
+    height: 800px !important; 
+    object-fit: cover;
+  }
+
+
+.carousel {
+    max-height: 800 px;
+    max-width: 1500px;
+    margin: 0 auto; /* center the carousel horizontally */
+    margin-bottom: 100px;
+  }
+
+.titles {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.regular-text {
+    font-family: 'Poppins', sans-serif;
+}
+
+.place-description {
+    font-size: 112.5%;
+}
+
+.menu-button {
+    background-color: #D0103C !important;
+}
+
+.image-restaurant {
+    height: 200px;
+}
+
+.food-options {
+    height: 800px;
+    object-fit: cover;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.menu-options {
+    font-size: 120%;
+}
+
+.img-menu {
+    max-height: 108px;
+    object-fit: cover;
+}
+
+#welcome-page, #menu-page {
+    color: #D0103C;
+}
+
